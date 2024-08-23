@@ -51,7 +51,7 @@ class _MyPageState extends State<MyPage> {
 
     return Scaffold(
         appBar: AppBar(
-          title: const Text("IT@WU Shop????"),
+          title: const Text("IT@WU Shop"),
           backgroundColor: Colors.cyan, 
         ),
         
